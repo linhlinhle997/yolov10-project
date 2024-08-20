@@ -8,7 +8,7 @@ This repository contains Jupyter notebooks for setting up and using the YOLOv10 
 To run the notebooks in Google Colab, follow these steps:
 1. **Open [Google Colab](https://colab.research.google.com/)**
 2. **Clone the repository**
-   ```sh
+   ```bash
    !git clone https://github.com/linhlinhle997/yolov10-project.git
    cd yolov10-project
    ```
